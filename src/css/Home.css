@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin:0;
+}
+.navbar{
+    background-color: black;
+    width: 1300px;
+    height: 90px;
+}
+#title{
+    color: blanchedalmond;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+#register{
+    float: right;
+    margin-right: 50px;
+    background: black;
+    color: white;
+    padding: 5px;
+}
+#login{
+    float: right;
+    background: black;
+    margin-right: 30px;
+    color: white;
+    padding: 5px;
+}
+#register:hover{
+    background-color:white;
+    color:black;
+}
+#login:hover{
+    background-color:white;
+    color:black;
+}
+#greet{
+    text-align: center;
+    font-weight: 50%;
+    font-size: 50px;
+    margin-top: 200px;
+}
+
+
+

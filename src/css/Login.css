@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.form-container{
+    width: 400px;
+    margin-left: 400px;
+    padding-top: 100px;
+}
+.page{
+    background-color :#676767;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+}

@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.home{
+    background-color: rgb(219, 137, 61);
+    width: 1260px;
+    height: 800px;
+}
+.Recipedetails{
+    padding-left: 20%;
+    padding-top: 80px;
+}
+.button{
+    color: cornsilk;
+    background-color: rgb(37, 37, 146);
+}
+
