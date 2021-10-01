@@ -13,7 +13,7 @@ function Navbar() {
                     <li ><a className='nav-link text-light' href='/hotel/add'>Add Hotels</a></li>
                     <li ><a className='nav-link text-light' href='/recipe/add'>Add Recipe</a></li>
                     <li ><a className='nav-link text-light' href='/profile'>Users</a></li>
-                    <li ><a className='nav-link text-light' href='/login' onClick={() =>  sessionStorage.clear()}>Signout</a></li>
+                    <li ><a className='nav-link text-light' href='/login' onClick={() => sessionStorage.clear()}>Signout</a></li>
                 </ul>
             </div>
         </nav>
